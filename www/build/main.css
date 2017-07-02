@@ -24807,6 +24807,7 @@ page-login .login-content .register-btn {
   color: #ffffff;
   font-size: 0.8em;
   border: 0px;
+  text-transform: capitalize;
 }
 
 page-searcher {
@@ -24829,8 +24830,6 @@ page-searcher .content ion-item {
 }
 
 page-searcher .content ion-searchbar {
-  background: #f0f0f0;
-  border-radius: 10px !important;
   padding-top: 5px;
   padding-bottom: 5px;
   margin-bottom: 10px;
